@@ -383,5 +383,8 @@
     "yargs-unparser": "^2.0.0",
     "yn": "^3.1.1",
     "yocto-queue": "^0.1.0"
+  },
+  "directories": {
+    "test": "test"
   }
 }
