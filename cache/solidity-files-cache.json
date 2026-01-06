@@ -37,42 +37,6 @@
         "Sample_2026_01_05_07_37"
       ]
     },
-    "/home/runner/work/DEVOPS-101/DEVOPS-101/contracts/Sample_2026_01_05_08_52.sol": {
-      "lastModificationDate": 1767722356210,
-      "contentHash": "36e4dc0d18d7c09673b90b0fb2f9da02",
-      "sourceName": "contracts/Sample_2026_01_05_08_52.sol",
-      "solcConfig": {
-        "version": "0.8.20",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "Sample_2026_01_05_08_52"
-      ]
-    },
     "/home/runner/work/DEVOPS-101/DEVOPS-101/contracts/Sample_2026_01_05_09_51.sol": {
       "lastModificationDate": 1767653658714,
       "contentHash": "722fdbaa0702049a13aafa888cf8d5fa",
