@@ -146,8 +146,8 @@
       ]
     },
     "/home/runner/work/DEVOPS-101/DEVOPS-101/contracts/Sample_2026_01_13_17_56.sol": {
-      "lastModificationDate": 1768630493331,
-      "contentHash": "17581faf6e987deda03244196afca48a",
+      "lastModificationDate": 1768633236156,
+      "contentHash": "19682594dd6041012e1556dc105b03dc",
       "sourceName": "contracts/Sample_2026_01_13_17_56.sol",
       "solcConfig": {
         "version": "0.8.20",
