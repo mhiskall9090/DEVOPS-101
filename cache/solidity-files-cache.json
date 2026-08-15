@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/runner/work/DEVOPS-101/DEVOPS-101/contracts/Sample_2026_08_10_13_55.sol": {
-      "lastModificationDate": 1786791425679,
-      "contentHash": "c293d2c49abc19d28564806e4d1a742e",
+      "lastModificationDate": 1786793956853,
+      "contentHash": "bbe8d66bf863071fe756941b57deaea7",
       "sourceName": "contracts/Sample_2026_08_10_13_55.sol",
       "solcConfig": {
         "version": "0.8.20",
