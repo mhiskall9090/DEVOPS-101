@@ -36,61 +36,6 @@
  },
  "data": {
   "methods": {
-   "Sample_2026_08_21_20_34_61bc221a": {
-    "key": "61bc221a",
-    "isCall": true,
-    "contract": "Sample_2026_08_21_20_34",
-    "method": "counter",
-    "fnSig": "counter()",
-    "intrinsicGas": [],
-    "callData": [],
-    "gasData": [],
-    "numberOfCalls": 0
-   },
-   "Sample_2026_08_21_20_34_5a9b0b89": {
-    "key": "5a9b0b89",
-    "isCall": true,
-    "contract": "Sample_2026_08_21_20_34",
-    "method": "getInfo",
-    "fnSig": "getInfo()",
-    "intrinsicGas": [],
-    "callData": [],
-    "gasData": [],
-    "numberOfCalls": 0
-   },
-   "Sample_2026_08_21_20_34_d09de08a": {
-    "key": "d09de08a",
-    "isCall": false,
-    "contract": "Sample_2026_08_21_20_34",
-    "method": "increment",
-    "fnSig": "increment()",
-    "intrinsicGas": [],
-    "callData": [],
-    "gasData": [],
-    "numberOfCalls": 0
-   },
-   "Sample_2026_08_21_20_34_e21f37ce": {
-    "key": "e21f37ce",
-    "isCall": true,
-    "contract": "Sample_2026_08_21_20_34",
-    "method": "message",
-    "fnSig": "message()",
-    "intrinsicGas": [],
-    "callData": [],
-    "gasData": [],
-    "numberOfCalls": 0
-   },
-   "Sample_2026_08_21_20_34_368b8772": {
-    "key": "368b8772",
-    "isCall": false,
-    "contract": "Sample_2026_08_21_20_34",
-    "method": "setMessage",
-    "fnSig": "setMessage(string)",
-    "intrinsicGas": [],
-    "callData": [],
-    "gasData": [],
-    "numberOfCalls": 0
-   },
    "Sample_2026_08_21_23_59_61bc221a": {
     "key": "61bc221a",
     "isCall": true,
@@ -640,69 +585,9 @@
     "callData": [],
     "gasData": [],
     "numberOfCalls": 0
-   },
-   "Sample_2026_08_23_19_46_61bc221a": {
-    "key": "61bc221a",
-    "isCall": true,
-    "contract": "Sample_2026_08_23_19_46",
-    "method": "counter",
-    "fnSig": "counter()",
-    "intrinsicGas": [],
-    "callData": [],
-    "gasData": [],
-    "numberOfCalls": 0
-   },
-   "Sample_2026_08_23_19_46_5a9b0b89": {
-    "key": "5a9b0b89",
-    "isCall": true,
-    "contract": "Sample_2026_08_23_19_46",
-    "method": "getInfo",
-    "fnSig": "getInfo()",
-    "intrinsicGas": [],
-    "callData": [],
-    "gasData": [],
-    "numberOfCalls": 0
-   },
-   "Sample_2026_08_23_19_46_d09de08a": {
-    "key": "d09de08a",
-    "isCall": false,
-    "contract": "Sample_2026_08_23_19_46",
-    "method": "increment",
-    "fnSig": "increment()",
-    "intrinsicGas": [],
-    "callData": [],
-    "gasData": [],
-    "numberOfCalls": 0
-   },
-   "Sample_2026_08_23_19_46_e21f37ce": {
-    "key": "e21f37ce",
-    "isCall": true,
-    "contract": "Sample_2026_08_23_19_46",
-    "method": "message",
-    "fnSig": "message()",
-    "intrinsicGas": [],
-    "callData": [],
-    "gasData": [],
-    "numberOfCalls": 0
-   },
-   "Sample_2026_08_23_19_46_368b8772": {
-    "key": "368b8772",
-    "isCall": false,
-    "contract": "Sample_2026_08_23_19_46",
-    "method": "setMessage",
-    "fnSig": "setMessage(string)",
-    "intrinsicGas": [],
-    "callData": [],
-    "gasData": [],
-    "numberOfCalls": 0
    }
   },
   "deployments": [
-   {
-    "name": "Sample_2026_08_21_20_34",
-    "gasData": [],
-    "callData": []
-   },
    {
     "name": "Sample_2026_08_21_23_59",
     "gasData": [],
@@ -750,11 +635,6 @@
    },
    {
     "name": "Sample_2026_08_23_18_39",
-    "gasData": [],
-    "callData": []
-   },
-   {
-    "name": "Sample_2026_08_23_19_46",
     "gasData": [],
     "callData": []
    }
